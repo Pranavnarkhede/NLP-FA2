@@ -48,7 +48,7 @@ with st.sidebar:
     
 def main():
     """Main function to run the Streamlit app."""
-    st.title("🌐 NLP Web App")
+    st.title("🌐 NLP ")
     st.markdown("""
         <style>
             .sidebar .selectbox { font-size: 18px; color: #4CAF50; }
